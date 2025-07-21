@@ -6,4 +6,8 @@ Throughout this analysis, I have observed varying unemployment patterns across E
 
 The Netherlands, in particular, showed moderate fluctuations, with a peak of 7.4% in 2014 and a general decline in recent years, demonstrating strong economic recovery and resilience.
 
-Graphs are available in the "visualizations" branch, and interpretive reports can be found in the "essays" branch.
+Graphs are available in the "visualizations" branch, and interpretive reports can be found in the "essays" branch. The dataset I've used is at "data" branch, and the notebook I've used is at "notebook" branch.
+
+**Resources**
+
+[Unemployment, total (% of total labor force) - World Bank](https://data.worldbank.org/indicator/SL.UEM.TOTL.ZS)
